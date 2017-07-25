@@ -1,0 +1,26 @@
+[Bittrex]
+Key =
+Secret =
+
+[Yobit]
+Key =
+Secret =
+
+[Cryptopia]
+Key = 
+Secret = 
+
+[Poloniex]
+Key =SA9BKCB6-KUHWPF7E-IFPV0Q41-T6QNOP37
+Secret =3458d35ef44be2c80361c887224ec3bf548ce094457a482b725779262bb0e664112fee808d9e38069501e7bfd78b43f48154f86fc225fdc5a7e2562e20856560
+
+[PriceLip]
+BuyPercent = 2
+SellPercent = 2
+
+
+[RiskMultiplier]
+# 0 is reserved for disabling this feature, do not use
+1 = 1.5
+2 = 2
+3 = 4
